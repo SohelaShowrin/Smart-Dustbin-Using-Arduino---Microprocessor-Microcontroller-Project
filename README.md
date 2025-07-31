@@ -1,6 +1,7 @@
 # Smart-Dustbin-Using-Arduino---Microprocessor-Microcontroller-Project
 
-🎯Introduction
+# 🎯Introduction
+
 A dustbin is a large container with a lid which people put their rubbish in and which 
 is usually kept outside their house.Dustbin(or garbage bins,trash cans,whatever you can 
 call them)are small plastic(or metal) containers that are used to store trash(or waste) on a 
@@ -15,7 +16,8 @@ developed here.Using this project,the lid of the dustbin stays closed,so that wa
 exposed(to avoid flies and mosquitos) and when one want’s to dispose any waste,it will 
 automatically open the lid.
 
-⚒️Importance
+# ⚒️Importance
+
 The project is important in various way.Here are :
 1) Smart dustbins enable efficient waste collection, ensuring timely disposal and 
 preventing overflow, which can lead to littering and environmental pollution.
@@ -27,7 +29,7 @@ pollution and preserving natural resources.
 5) Implementing smart dustbins fosters innovation and the adoption of technology in 
 traditional waste management systems, leading to more sustainable practices.
 
-🔑List of equipment
+# 🔑List of equipment
 A. HC-SR04 Ultrasonic Sensor: The Ultrasonic Sensor HC-SR04 is one of the most 
 commonly used distance measuring sensors and works extremely well with 
 arduino. The time its take the sound wave to be sent, hit the object and return back 
@@ -51,7 +53,7 @@ and low-power circuits. The 9V battery, a compact and portable option, is
 convenient for providing reliable energy in situations where a compact form factor 
 is essential.
 
-✅CONCLUSION
+# ✅CONCLUSION
 Future enhancements for a smart dustbin using Arduino include smart sorting, 
 capacity monitoring, energy efficiency, remote monitoring, data analytics, odor control, 
 user interaction improvements, integration with smart cities, safety features, and 
